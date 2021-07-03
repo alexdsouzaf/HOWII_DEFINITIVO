@@ -1,0 +1,92 @@
+@charset "UTF-8";
+
+body {
+    background-color: darkkhaki;
+    font-family: poppins, open-sans;
+    border: 5px solid darkolivegreen;
+    display: block;
+    margin: 5px;
+}
+nav {
+    color: darkolivegreen;
+    padding: 5px;
+    border-bottom: 5px solid darkolivegreen;
+    width: 100%;
+}
+a {
+    color:darkolivegreen; 
+    font-size: 2em;
+    text-decoration: none;
+    margin-left: 50px;
+}
+a:hover {
+    text-decoration: underline;
+}
+main {
+    color: darkolivegreen;
+}
+div {
+    color: darkolivegreen;
+}
+#fundo {
+    width: 100%;
+    margin-top:0;
+    margin-left:auto;
+    margin-bottom:0;
+    margin-right:auto;
+    display: flex;
+}
+#origem {
+    width:450px;
+    height:200px;
+    float:left;
+    margin-left: 4%;
+    margin-top: 30px;
+}
+#ativismo {
+    width: 450px;
+    height: 200px;
+    float:left;
+    margin-left: 18%;
+    margin-top: 30px;
+}
+#footer {
+    position:absolute;
+    bottom:0;
+    width:100%;
+    color: darkolivegreen;
+    font-size: 1.5em;
+    border-top: 5px solid darkolivegreen;
+}
+#contato {
+    position: absolute;
+    top: 40%; 
+    margin-top: -25px; 
+    left: 40%;
+}
+#referencias {
+    position: absolute;
+    top: 40%;
+    right: 30%;
+    left: 30%;
+}
+footer {
+    color: darkolivegreen;
+    font-size: 1.5em;
+    border-top: 5px solid darkolivegreen;
+    width: 100%;
+}
+p {
+    font-size: 1em;
+    text-align: justify;
+}
+img {
+    border: 5px solid darkolivegreen;
+    margin: 5px;
+    width: 30%;
+    margin-left: 20px;
+}
+h3 {
+    margin: 5px;
+    margin-left: 25%;
+}
